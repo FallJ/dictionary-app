@@ -20,7 +20,7 @@ export default function Dictionary() {
     setKeyword(event.target.value);
   }
 
-  https: return (
+  return (
     <div className="dictionary">
       <form onSubmit={search}>
         <input type="search" onChange={handleKeywordChange} />
