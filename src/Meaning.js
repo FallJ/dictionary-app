@@ -18,9 +18,7 @@ return (
     </div>
 );
 })}
-
-    <p>{props.meaning.definitions[0].definitions}</p>
-    <p>{props.meaning.definitions[0].example}</p>
+   
   </div>
 );
 
