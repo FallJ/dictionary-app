@@ -16,3 +16,8 @@
     background: #113CFC;
     color: #69DADB;
 }
+
+.phonetic .text {
+    opacity: .5;
+    font-weight: bold;
+}
